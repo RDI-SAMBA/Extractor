@@ -21,6 +21,7 @@ which comes with any Python >= 3.4. Open a Terminal in Linux or cmd in Windows a
 the following commands:
 
 $ pip install pymongo py2neo twitter twython
+
 $ pip install git+https://github.com/pythonforfacebook/facebook-sdk.git
 
 Note that if you are running Linux you may need to add 'sudo' at the start of these 
