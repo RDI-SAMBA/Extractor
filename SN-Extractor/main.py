@@ -4,7 +4,7 @@ from multiprocessing.context import Process
 from time import sleep
 
 if __name__ == '__main__':
-    try:/home/mahdi/workspace
+    try:
         search_list = input("enter a '-' separated list of search words: ")
         
         
